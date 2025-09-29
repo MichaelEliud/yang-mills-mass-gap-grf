@@ -2,6 +2,8 @@ SU(3) Yang-Mills Mass Gap Simulation in GRF
 
 This repository contains Python code for a lattice QCD simulation proving the mass gap in pure SU(3) Yang-Mills theory using the Gravitational Rhythm Framework (GRF), as submitted to the Clay Mathematics Institute. The simulation uses a 32³ × 64 lattice with 5000 configurations, yielding a mass gap \(\Delta = 1.501 \pm 0.054 \, \text{GeV}\), validated at \(\Delta = 1.502 \pm 0.052 \, \text{GeV}\), consistent with lattice QCD’s \(0^{++}\) glueball mass.
 
+Citation
+This code supports the submission to the Clay Mathematics Institute for the Yang-Mills mass gap problem, detailed in the accompanying report by Michael Eliud Mang'anyi.
 Requirements
 - Python 3.8+
 - NumPy, SciPy
